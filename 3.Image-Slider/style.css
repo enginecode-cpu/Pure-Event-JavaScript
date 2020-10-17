@@ -10,7 +10,7 @@ header h1 {
 }
 /* container */
 .carousel-container {
-    width: 60%;
+    width: 980px;
     border: 5px solid black;
     margin: auto;
     overflow: hidden;
