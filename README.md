@@ -6,6 +6,4 @@
 ## 4. [Resposive Navigation Bar](https://github.com/enginecode-cpu/Pure-Event-JavaScript/tree/main/4.Responsive-Nav)
 ## 5. [Form Animation](https://github.com/enginecode-cpu/Pure-Event-JavaScript/tree/main/5.Form-Animation)
 
----
-
 아이콘 출처: [fontawesome](https://fontawesome.com/)
