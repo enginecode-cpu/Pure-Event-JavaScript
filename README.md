@@ -12,4 +12,6 @@
 ### 6. [Copy to Clipboard](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/6.Copy-Clipboard)
 글씨 클릭하면 복사되는 기능
 
+---
+
 아이콘 출처: [fontawesome](https://fontawesome.com/)
