@@ -7,6 +7,7 @@
 ### 3. [Image Slide](https://github.com/enginecode-cpu/Pure-Event-JavaScript/tree/main/3.Image-Slider)
 자연스럽게 옆으로 만들기
 ### 4. [Resposive Navigation Bar](https://github.com/enginecode-cpu/Pure-Event-JavaScript/tree/main/4.Responsive-Nav)
+화면 크기에 따라 메뉴가 다르게 보이는 기능
 ### 5. [Form Animation](https://github.com/enginecode-cpu/Pure-Event-JavaScript/tree/main/5.Form-Animation)
 회원가입 폼 이벤트
 ### 6. [Copy to Clipboard](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/6.Copy-Clipboard)
