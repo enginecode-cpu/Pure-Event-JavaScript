@@ -12,6 +12,8 @@
 회원가입 폼 이벤트
 ### 6. [Copy to Clipboard](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/6.Copy-Clipboard)
 글씨 클릭하면 복사되는 기능
+### 7. [Custom Mouse Event](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/7.Custom-Cursor)
+마우스 포인터 커스텀
 
 <br>
 
