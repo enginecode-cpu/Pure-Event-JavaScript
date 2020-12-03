@@ -15,6 +15,7 @@
 ### 7. [Custom Mouse Event](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/07.Custom-Cursor)
 마우스 포인터 커스텀
 ### 8. [모달창 이벤트](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/08.Modal)
+### 9. [Particles Event](https://github.com/enginecode-cpu/Pure-JavaScript-Event/tree/main/09.Particles)
 
 <br>
 
