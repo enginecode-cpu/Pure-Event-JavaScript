@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+html {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-self: flex-start;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  z-index: -1;
+  background: black;
+}
+.bg::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mobile-text {
+  display: none;
+  color: whitesmoke;
+}
+
+h1 {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  font-size: 40px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+
+.container h1 span {
+  margin-right: 50px;
+  display: inline-block;
+}
+#line {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 15px;
+  width: 245px;
+  border: 5px solid royalblue;
+  pointer-events: none;
+  z-index: -1;
+  transition: 0.5s ease-in all;
+}
+.container p {
+  color: whitesmoke;
+  font-size: 20px;
+  max-width: 600px;
+  margin-top: 20px;
+  line-height: 30px;
+}
+button {
+  background: white;
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 8px;
+  border: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+}
+
+@media (max-width: 768px) {
+  .mobile-text {
+    display: block;
+  }
+  .text {
+    display: none;
+  }
+}
